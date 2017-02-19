@@ -1,0 +1,7 @@
+[package]
+name = "hilbert"
+version = "0.1.0"
+authors = ["Michael Lieberman <mlieberman85@gmail.com>"]
+
+[dependencies]
+piston_window = "*"
